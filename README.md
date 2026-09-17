@@ -6,9 +6,8 @@
 **Escola Politécnica e de Artes**
 **Curso Tecnólogo em Análise e Desenvolvimento de Sistemas**
 
----
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 O projeto apresenta a proposta de um **Sistema de Gerenciamento de Intenções das Santas Missas**, desenvolvido para auxiliar a secretaria de uma paróquia na organização, consulta e gerenciamento das intenções encaminhadas para as celebrações.
 
@@ -16,15 +15,13 @@ O levantamento de requisitos foi realizado considerando a rotina da secretaria p
 
 A proposta busca facilitar ainda mais a organização e a consulta das intenções, principalmente por meio da **identificação de nomes repetidos** e da visualização organizada das informações.
 
----
 
-## 🎯 Objetivo geral
+##  Objetivo geral
 
 Propor um sistema informatizado para auxiliar a secretaria paroquial no gerenciamento e na organização das intenções das Santas Missas.
 
----
 
-## 🎯 Objetivos específicos
+##  Objetivos específicos
 
 * Facilitar o cadastro das intenções;
 * Facilitar a consulta das intenções;
@@ -35,9 +32,8 @@ Propor um sistema informatizado para auxiliar a secretaria paroquial no gerencia
 * Permitir o acesso por computador e dispositivos móveis;
 * Contribuir para a organização digital das informações.
 
----
 
-## 🔎 Levantamento de requisitos
+##  Levantamento de requisitos
 
 O levantamento de requisitos foi realizado por meio de uma pesquisa com uma pessoa responsável pelas atividades da secretaria paroquial relacionadas às intenções das Santas Missas.
 
@@ -58,9 +54,8 @@ Foi utilizado um formulário com **10 perguntas** relacionadas ao recebimento, r
 | Dispositivos                         | Computador e celular                        |
 | Utilidade de um sistema              | A entrevistada considera que ajudaria muito |
 
----
 
-## ⚙️ Requisitos funcionais
+##  Requisitos funcionais
 
 O sistema deverá:
 
@@ -76,9 +71,8 @@ O sistema deverá:
 * Permitir excluir uma intenção cadastrada;
 * Permitir visualizar as informações de maneira organizada por missa.
 
----
 
-## 🔒 Requisitos não funcionais
+##  Requisitos não funcionais
 
 O sistema deverá:
 
@@ -90,9 +84,8 @@ O sistema deverá:
 * Possuir tempo de resposta adequado nas consultas;
 * Possuir uma interface adaptável a diferentes tamanhos de tela.
 
----
 
-## 👤 Usuário do sistema
+##  Usuário do sistema
 
 O principal usuário previsto é a **secretaria da paróquia**, representada pelas secretárias paroquiais responsáveis pela organização das intenções.
 
@@ -107,9 +100,9 @@ O usuário autorizado poderá:
 * Excluir registros;
 * Visualizar as intenções de determinada missa.
 
----
 
-## 🖥️ Protótipo
+
+##  Protótipo
 
 O projeto possui um protótipo de interface com cinco telas principais:
 
@@ -172,9 +165,9 @@ Permite identificar quando o mesmo nome aparece em mais de uma intenção cadast
 
 Essa funcionalidade foi incluída a partir da necessidade identificada durante o levantamento de requisitos.
 
----
 
-## 🧩 Modelagem
+
+## Modelagem
 
 O projeto possui um **Diagrama de Caso de Uso**, representando as principais interações do usuário responsável pela secretaria com o sistema.
 
@@ -186,17 +179,16 @@ Entre as principais funcionalidades estão:
 * Gerenciamento das intenções;
 * Identificação de nomes repetidos.
 
----
 
-## ♻️ Sustentabilidade
+##  Sustentabilidade
 
 A proposta considera o uso consciente de recursos por meio da organização digital das informações.
 
 A utilização de um sistema pode contribuir para reduzir a necessidade de registros físicos e impressões desnecessárias, além de facilitar a consulta e o armazenamento das informações.
 
----
 
-## ✅ Validação do protótipo
+
+##  Validação do protótipo
 
 Após a elaboração do protótipo, as telas deverão ser apresentadas ao responsável pela secretaria paroquial que participou do levantamento.
 
@@ -208,9 +200,9 @@ A validação será realizada por meio de três perguntas:
 
 As respostas serão utilizadas para verificar se o protótipo atende às necessidades identificadas durante a pesquisa.
 
----
 
-## 📚 Documentação
+
+## Documentação
 
 O projeto contém a documentação referente ao levantamento e à especificação dos requisitos, incluindo:
 
@@ -227,9 +219,8 @@ O projeto contém a documentação referente ao levantamento e à especificaçã
 * Resultados esperados;
 * Conclusão.
 
----
 
-## 📁 Estrutura sugerida do repositório
+##  Estrutura sugerida do repositório
 
 ```text
 Projeto-Integrador-II-B/
@@ -248,9 +239,8 @@ Projeto-Integrador-II-B/
 └── Projeto-Integrador-II-B.zip
 ```
 
----
 
-## 🎓 Informações acadêmicas
+##  Informações acadêmicas
 
 **Instituição:** Pontifícia Universidade Católica de Goiás – PUC Goiás
 **Escola:** Escola Politécnica e de Artes
