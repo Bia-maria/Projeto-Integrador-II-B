@@ -5,10 +5,10 @@
 **Escola Politécnica e de Artes**
 **Curso Tecnólogo em Análise e Desenvolvimento de Sistemas**
 
-Integrantes
-Beatriz de Freitas Ribeiro Silva
-Eduardo Sales Sousa
-Helder de Almeida Santos
+Integrantes:
+Beatriz de Freitas Ribeiro Silva;
+Eduardo Sales Sousa;
+Helder de Almeida Santos;
 
 ##  Sobre o projeto
 
