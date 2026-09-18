@@ -1,11 +1,14 @@
 # Sistema de Gerenciamento de Intenções das Santas Missas
-
 ## Projeto Integrador II-B
 
 **Pontifícia Universidade Católica de Goiás – PUC Goiás**
 **Escola Politécnica e de Artes**
 **Curso Tecnólogo em Análise e Desenvolvimento de Sistemas**
 
+Integrantes
+Beatriz de Freitas Ribeiro Silva
+Eduardo Sales Sousa
+Helder de Almeida Santos
 
 ##  Sobre o projeto
 
@@ -15,11 +18,9 @@ O levantamento de requisitos foi realizado considerando a rotina da secretaria p
 
 A proposta busca facilitar ainda mais a organização e a consulta das intenções, principalmente por meio da **identificação de nomes repetidos** e da visualização organizada das informações.
 
-
 ##  Objetivo geral
 
 Propor um sistema informatizado para auxiliar a secretaria paroquial no gerenciamento e na organização das intenções das Santas Missas.
-
 
 ##  Objetivos específicos
 
@@ -31,7 +32,6 @@ Propor um sistema informatizado para auxiliar a secretaria paroquial no gerencia
 * Facilitar o trabalho das secretárias paroquiais;
 * Permitir o acesso por computador e dispositivos móveis;
 * Contribuir para a organização digital das informações.
-
 
 ##  Levantamento de requisitos
 
@@ -71,7 +71,6 @@ O sistema deverá:
 * Permitir excluir uma intenção cadastrada;
 * Permitir visualizar as informações de maneira organizada por missa.
 
-
 ##  Requisitos não funcionais
 
 O sistema deverá:
@@ -83,7 +82,6 @@ O sistema deverá:
 * Apresentar as informações de maneira organizada;
 * Possuir tempo de resposta adequado nas consultas;
 * Possuir uma interface adaptável a diferentes tamanhos de tela.
-
 
 ##  Usuário do sistema
 
@@ -99,8 +97,6 @@ O usuário autorizado poderá:
 * Alterar informações;
 * Excluir registros;
 * Visualizar as intenções de determinada missa.
-
-
 
 ##  Protótipo
 
@@ -165,8 +161,6 @@ Permite identificar quando o mesmo nome aparece em mais de uma intenção cadast
 
 Essa funcionalidade foi incluída a partir da necessidade identificada durante o levantamento de requisitos.
 
-
-
 ## Modelagem
 
 O projeto possui um **Diagrama de Caso de Uso**, representando as principais interações do usuário responsável pela secretaria com o sistema.
@@ -178,7 +172,6 @@ Entre as principais funcionalidades estão:
 * Consulta de intenções;
 * Gerenciamento das intenções;
 * Identificação de nomes repetidos.
-
 
 ##  Sustentabilidade
 
@@ -219,7 +212,6 @@ O projeto contém a documentação referente ao levantamento e à especificaçã
 * Resultados esperados;
 * Conclusão.
 
-
 ##  Estrutura sugerida do repositório
 
 ```text
@@ -238,12 +230,5 @@ Projeto-Integrador-II-B/
 │
 └── Projeto-Integrador-II-B.zip
 ```
-
-
-##  Informações acadêmicas
-
-**Instituição:** Pontifícia Universidade Católica de Goiás – PUC Goiás
-**Escola:** Escola Politécnica e de Artes
-**Curso:** Análise e Desenvolvimento de Sistemas
 **Projeto:** Projeto Integrador II-B
 **Ano:** 2026
